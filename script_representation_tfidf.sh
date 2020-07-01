@@ -1,0 +1,1 @@
+python3.6 representation_tfidf.py '3c-shared-task-purpose' 'dataset/3c-shared-task-purpose/split_5.csv' 'dataset/3c-shared-task-purpose/orig/texts.txt' 'dataset/3c-shared-task-purpose/orig/score.txt' 0
