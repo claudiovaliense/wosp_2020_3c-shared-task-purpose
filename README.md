@@ -2,6 +2,9 @@
 
 # Author: Claudio Moisés Valiense de Andrade
 
+# Download Glove 6B tokens. Place the extracted file in a directory above the project directory
+https://nlp.stanford.edu/projects/glove/
+
 # Install python 3.6
 sudo apt-get install python3.6
 
