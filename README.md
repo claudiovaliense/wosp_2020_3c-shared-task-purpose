@@ -26,5 +26,5 @@ sh script_classifiers_predict.sh
 # Create file for submission
 python3.6 create_file_submission.py
 
-# We createan image through the docker with the entire processconfigured
+# We create an image through the docker with the entire processconfigured
 https://hub.docker.com/r/claudiovaliense/wosp\_2020\_3c-shared-task-purpose
