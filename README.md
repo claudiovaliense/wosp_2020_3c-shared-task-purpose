@@ -1,6 +1,9 @@
 # wosp_2020_3c-shared-task-purpose
 
-# Author: Claudio Moisés Valiense de Andrade
+# Author: Claudio Moisés Valiense de Andrade and Marcos André Gonçalves
+
+# Paper
+https://www.aclweb.org/anthology/2020.wosp-1.8/
 
 # Download Glove 6B tokens. Place the extracted file in a directory above the project directory
 https://nlp.stanford.edu/projects/glove/
