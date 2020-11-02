@@ -35,7 +35,7 @@ https://hub.docker.com/r/claudiovaliense/wosp\_2020\_3c-shared-task-purpose
   title={Combining representations for effective citation classification},
   
   author={de Andrade, Claudio Mois{\'e}s Valiense and Gon{\c{c}}alves, Marcos Andr{\'e}},
-  
+   
   booktitle={Proceedings of the 8th International Workshop on Mining Scientific Publications},
   
   pages={54--58},
