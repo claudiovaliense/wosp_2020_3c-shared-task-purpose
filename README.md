@@ -30,7 +30,7 @@ sh script_classifiers_predict.sh
 python3.6 create_file_submission.py
 
 # We create an image through the docker with the entire process configured
-https://hub.docker.com/r/claudiovaliense/wosp\_2020\_3c-shared-task-purpose
+https://hub.docker.com/r/claudiovaliense/wosp_2020_3c-shared-task-purpose
 
 # Citation (Bibtex)
 <pre>
